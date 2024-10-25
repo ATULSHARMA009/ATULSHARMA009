@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @ATULSHARMA009
+- 👋 Hi, I’m ATUL SHARMA
 - 👀 I’m interested in anime
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on projects on machine learning
 - 📫 How to reach me https://www.instagram.com/_atulsharma_09____/ dm
-- 😄 Pronouns: he/him/yours
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: life is unfair XD
   
 
